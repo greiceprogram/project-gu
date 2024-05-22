@@ -68,7 +68,7 @@ nav ul li a:hover {
   }
   
   .call-to-action {
-    background-image: url(./img/maos.jpg);
+    background-image: url(./src/img/maos.jpg);
     background-size: cover;
     background-position: center;
     color: black;
